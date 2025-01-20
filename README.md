@@ -10,7 +10,7 @@ Skill Path:
 -https://app.pluralsight.com/paths/skill/domain-driven-design
 
 Beginner
-- > **https://app.pluralsight.com/library/courses/domain-driven-design-big-picture**
+- :white_check_mark: **https://app.pluralsight.com/library/courses/domain-driven-design-big-picture**
 - https://app.pluralsight.com/library/courses/fundamentals-domain-driven-design
 - https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles
   
